@@ -1,4 +1,4 @@
-package url.do.website;
+package url.dos.website;
 
 import android.app.*;
 import android.os.*;
