@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	package="url.do.website"
+	package="url.dos.website"
 	android:versionCode="1"
 	android:versionName="1.0">
 
@@ -13,11 +13,11 @@
 		android:allowBackup="true"
 		android:icon="@drawable/ic_launcher"
 		android:label="@string/app_name"
-		android:theme="@style/AppTheme"
+		android:theme="@style/Tema"
 		android:resizeableActivity="true">
 
 		<activity
-			android:name=".MainActivity"
+			android:name=".SplashActivity"
 			android:label="@string/app_name">
 
 			<intent-filter>
